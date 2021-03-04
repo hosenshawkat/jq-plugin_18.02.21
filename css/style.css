@@ -1,0 +1,37 @@
+
+.hosen{
+	text-align: center;
+	color: teal;
+}
+.single{
+	background-color: #dddddd;
+	margin: 0 auto;
+	
+}
+
+
+.red{
+  background-color: red;
+  min-height: 300px;
+}
+.green{
+  background-color: green;
+  min-height: 300px;
+}
+.blue{
+  background-color: blue;
+  min-height: 300px;
+}
+
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.slider{
+	background-color: brown;
+}
+.slider1{
+	background-color: pink;
+}
